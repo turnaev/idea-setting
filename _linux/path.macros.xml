@@ -1,5 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/home/lynx/idea-IU-172.3317.76/plugins/Kotlin/kotlinc" />
-  </component>
-</application>
