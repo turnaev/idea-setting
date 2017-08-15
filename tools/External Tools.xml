@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Dropbox/tools/bin/jpskill" />
       <option name="PARAMETERS" value="KMain -KILL" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="KMain SIGHUP" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
