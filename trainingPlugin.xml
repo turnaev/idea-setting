@@ -20,18 +20,6 @@
                     <MyPair>
                       <option name="status" value="started" />
                     </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
                   </list>
                 </option>
               </Lesson>
@@ -41,16 +29,6 @@
               </Lesson>
               <Lesson>
                 <option name="name" value="Duplicate" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Move" />
@@ -61,28 +39,6 @@
               <Lesson>
                 <option name="name" value="Multiple Selections" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #0" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #1" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #2" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #3" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
             </list>
           </option>
@@ -96,79 +52,18 @@
               <Lesson>
                 <option name="name" value="Basic Completion" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Smart Type Completion" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Statement Completion" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Completion with Tab" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
             </list>
           </option>
@@ -182,112 +77,15 @@
               <Lesson>
                 <option name="name" value="Rename" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Extract Variable/Field" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Extract Method" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Refactoring Basics" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
             </list>
           </option>
@@ -325,19 +123,6 @@
             <list>
               <Lesson>
                 <option name="name" value="Jump to Source" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Declaration/Implementation" />
@@ -356,6 +141,6 @@
         </course>
       </list>
     </option>
-    <option name="lastActivityTime" value="1502794604759" />
+    <option name="lastActivityTime" value="1502814083933" />
   </component>
 </application>
