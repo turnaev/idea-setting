@@ -2,5 +2,9 @@
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/home/lynx/.m2/repository" />
     <macro name="KOTLIN_BUNDLED" value="/home/lynx/.IntelliJIdea2017.2/config/plugins/Kotlin/kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
   </component>
 </application>
