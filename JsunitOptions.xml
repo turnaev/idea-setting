@@ -1,5 +1,5 @@
 <application>
   <component name="JsUnitConfig">
-    <property useDefaultTestRunner="true" />
+    <property useDefaultTestRunner="false" />
   </component>
 </application>
