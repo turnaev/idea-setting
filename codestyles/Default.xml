@@ -1,1 +1,9 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <codeStyleSettings language="kotlin">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+  </codeStyleSettings>
+</code_scheme>
