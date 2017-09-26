@@ -4,8 +4,10 @@
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern="http-all" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
