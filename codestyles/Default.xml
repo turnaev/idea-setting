@@ -1,6 +1,7 @@
 <code_scheme name="Default">
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
+    <option name="PROPERTY_ALIGNMENT" value="1" />
   </JSON>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -19,6 +20,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
