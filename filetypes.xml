@@ -2,12 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern=".secret.dict" type="PLAIN_TEXT" />
       <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
       <mapping pattern="http-create" type="PLAIN_TEXT" />
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="http-all" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
+      <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
