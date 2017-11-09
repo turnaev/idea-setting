@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".secret.dict" type="PLAIN_TEXT" />
+      <mapping pattern="app_params" type="PLAIN_TEXT" />
       <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
       <mapping pattern="http-create" type="PLAIN_TEXT" />
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
