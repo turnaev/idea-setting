@@ -8,6 +8,7 @@
       <mapping pattern="http-create" type="PLAIN_TEXT" />
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="http-all" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
