@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="exec nginx nginx -s reload" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
