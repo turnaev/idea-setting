@@ -20,7 +20,6 @@
       <mapping ext="backe" type="PLAIN_TEXT" />
       <mapping ext="clean-file" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" type="SmartyConfig" />
-      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
