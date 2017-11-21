@@ -20,13 +20,32 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="exec http nginx -s reload" />
+      <option name="arguments" value="exec prag-http nginx -s reload" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="*" />
       <option name="immediateSync" value="false" />
       <option name="name" value="http-prag" />
+      <option name="output" value="$ContentRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="docker" />
+      <option name="scopeName" value="nginx" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ContentRoot$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="exec prag-http nginx -s reload" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="prag-http" />
       <option name="output" value="$ContentRoot$" />
       <option name="outputFilters">
         <array />
