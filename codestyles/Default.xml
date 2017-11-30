@@ -1,5 +1,8 @@
 <code_scheme name="Default">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <JSCodeStyleSettings>
+    <option name="INDENT_CHAINED_CALLS" value="false" />
+  </JSCodeStyleSettings>
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="1" />
