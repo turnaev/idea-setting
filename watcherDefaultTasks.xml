@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="docker" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="nginx" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="docker" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="nginx" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
@@ -52,12 +54,13 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="docker" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="prag-nginx" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="exec ms-http nginx -s reload" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -71,6 +74,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="docker" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="ms-nginx" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
