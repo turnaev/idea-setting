@@ -34,6 +34,38 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472533023" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472540036" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472680699" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.SmartTypeCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472686274" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
@@ -58,11 +90,83 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472560496" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.Selection">
           <value>
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1513333061614" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472546984" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472548406" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472545023" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472549484" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractMethod">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472530468" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractVariable/Field">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472529572" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.RefactoringBasics">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472531428" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515472509105" />
             </StatisticData>
           </value>
         </entry>
