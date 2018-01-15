@@ -80,5 +80,25 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="nginx" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="guaca-proxy" />
+      <option name="output" value="$ContentRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="exec guaca-proxy nginx -s reload" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="guaca-proxy" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/project/guaca-proxy" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>
