@@ -180,7 +180,7 @@
       <option name="workingDir" value="$USER_HOME$/project/guaca-proxy" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="kill -s HUP guaca-rdp-proxy" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
