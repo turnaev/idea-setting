@@ -197,7 +197,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="guaca-rdp-proxy" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/project/guaca-proxy" />
+      <option name="workingDir" value="$USER_HOME$/project/guaca-proxy/images/haproxy" />
       <envs />
     </TaskOptions>
   </component>

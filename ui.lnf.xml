@@ -2,7 +2,6 @@
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
-    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
