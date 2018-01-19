@@ -181,7 +181,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="false">
-      <option name="arguments" value="kill -s HUP guaca-rdp-proxy" />
+      <option name="arguments" value="up" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ALWAYS" />
@@ -193,11 +193,11 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="docker" />
+      <option name="program" value="docker-compose" />
       <option name="runOnExternalChanges" value="false" />
       <option name="scopeName" value="guaca-rdp-proxy" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/project/guaca-proxy/images/haproxy" />
+      <option name="workingDir" value="$USER_HOME$/project/guaca-proxy/sandbox" />
       <envs />
     </TaskOptions>
   </component>
