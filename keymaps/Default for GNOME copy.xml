@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Symfony2Symbols">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="Tool_External Tools_KMain KILL">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
