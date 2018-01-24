@@ -40,7 +40,7 @@
             <configuration_option name="auto_append_file" value="" />
             <configuration_option name="auto_detect_line_endings" value="0" />
             <configuration_option name="auto_globals_jit" value="1" />
-            <configuration_option name="auto_prepend_file" value="$USER_HOME$/project/docker/prag/prag-src/src/php/global.php" />
+            <configuration_option name="auto_prepend_file" value="$USER_HOME$/project/prag/src/lib/dev/global.php" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="" />
             <configuration_option name="cli.pager" value="" />
