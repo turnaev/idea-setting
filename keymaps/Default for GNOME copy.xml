@@ -2,6 +2,9 @@
   <action id="Symfony2Symbols">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="Tool_External Tools_KAPP SIGHUP">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="Tool_External Tools_KMain KILL">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
