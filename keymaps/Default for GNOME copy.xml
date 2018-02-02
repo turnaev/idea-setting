@@ -11,4 +11,7 @@
   <action id="Tool_External Tools_KMain SIGHUP">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Tool_External Tools_KMain SIGTERM">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>
