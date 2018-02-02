@@ -6,12 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
   <action id="Tool_External Tools_KMain KILL">
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="Tool_External Tools_KMain SIGHUP">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="Tool_External Tools_KMain SIGTERM">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
 </keymap>
