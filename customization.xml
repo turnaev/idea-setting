@@ -1,11 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="14">
+    <group value="External Tools" is_group="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="External Tools" is_group="true" action_type="1" position="15">
+    <group seperator="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="External Tools" is_group="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
