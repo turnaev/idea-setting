@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="v" value="println($END$)&#10;" description="v debug" toReformat="true" toShortenFQNames="true">
+  <template name="v" value="println($END$)" description="v debug" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
