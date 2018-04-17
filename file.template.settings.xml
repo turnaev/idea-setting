@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="lua-module.lua" reformat="true" live-template-enabled="true" />
+      <template name="Lua module.lua" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
