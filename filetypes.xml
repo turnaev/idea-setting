@@ -16,6 +16,7 @@
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern=".dict.settings" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
