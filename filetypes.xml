@@ -3,22 +3,23 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="Makefile_" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".secret.dict" type="PLAIN_TEXT" />
       <mapping pattern="http-create" type="PLAIN_TEXT" />
-      <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
       <mapping pattern="app_params" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
       <mapping pattern="patterns" type="PLAIN_TEXT" />
       <mapping pattern="http-all" type="PLAIN_TEXT" />
+      <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
       <mapping pattern=".dict.settings" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
