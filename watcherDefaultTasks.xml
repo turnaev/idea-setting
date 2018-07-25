@@ -40,7 +40,7 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="exec prag-http openresty -s reload" />
       <option name="checkSyntaxErrors" value="false" />
       <option name="description" />
@@ -60,7 +60,7 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="exec ms-http openresty -s reload" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
