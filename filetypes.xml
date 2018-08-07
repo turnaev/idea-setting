@@ -28,6 +28,7 @@
       <mapping ext="backe" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="makefile" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping pattern="supervisord.conf" type="Ini" />
     </extensionMap>
