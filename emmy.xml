@@ -1,0 +1,11 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+  <component name="LuaSettings">
+    <option name="enforceTypeSafety" value="true" />
+    <option name="nilStrict" value="true" />
+    <option name="strictDoc" value="true" />
+  </component>
+</application>

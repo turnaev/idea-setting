@@ -40,13 +40,13 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="exec prag-http nginx -s reload" />
-      <option name="checkSyntaxErrors" value="true" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="exec prag-http openresty -s reload" />
+      <option name="checkSyntaxErrors" value="false" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="*" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="prag-http" />
       <option name="output" value="$ContentRoot$" />
       <option name="outputFilters">
@@ -60,8 +60,8 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="exec ms-http nginx -s reload" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="exec ms-http openresty -s reload" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ALWAYS" />
@@ -216,6 +216,26 @@
       <option name="program" value="docker" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="auto-ctl" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="exec cg-http openresty -s reload" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="cg-http" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="docker" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="cg-http" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
