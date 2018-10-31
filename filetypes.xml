@@ -32,6 +32,7 @@
       <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Makefile_" type="PLAIN_TEXT" />
+      <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="clean-file" type="PLAIN_TEXT" />
