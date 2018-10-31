@@ -9,6 +9,7 @@
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="SerializerDateTimeOffsetTest" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
@@ -23,7 +24,9 @@
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern="patterns" type="PLAIN_TEXT" />
+      <mapping pattern=".prompt" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".prompt_" type="PLAIN_TEXT" />
       <mapping pattern=".yamllint" type="PLAIN_TEXT" />
       <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
