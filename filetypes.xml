@@ -36,6 +36,7 @@
       <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="clean-file" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="backe" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
