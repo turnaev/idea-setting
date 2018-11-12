@@ -26,6 +26,7 @@
       <mapping pattern="patterns" type="PLAIN_TEXT" />
       <mapping pattern=".prompt" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".galaxy_install_info" type="PLAIN_TEXT" />
       <mapping pattern=".prompt_" type="PLAIN_TEXT" />
       <mapping pattern=".yamllint" type="PLAIN_TEXT" />
       <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
