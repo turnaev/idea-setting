@@ -39,18 +39,16 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping ext="orginal" type="PLAIN_TEXT" />
+      <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="backe" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="clean-file" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="makefile" type="PLAIN_TEXT" />
-      <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" approved="true" type="YAML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping pattern="*yml" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
