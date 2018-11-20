@@ -11,6 +11,7 @@
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="ansible-review.cfg" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
