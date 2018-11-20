@@ -47,8 +47,6 @@
       <mapping ext="makefile" type="PLAIN_TEXT" />
       <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping pattern="*.yml.j2" type="YAML" />
-      <mapping pattern="*.yaml.j2" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping ext="yaml" type="YAML_EX" />
