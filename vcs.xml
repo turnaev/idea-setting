@@ -4,7 +4,11 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://repa.prodv.net" />
-          <option name="userName" value="turnaev" />
+          <option name="userName" value="turnaev.v" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hg.kabra.ru" />
+          <option name="userName" value="turnaev.v" />
         </UrlAndUserName>
       </list>
     </option>
