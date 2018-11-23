@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Specify type explicitly" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+  </component>
+</application>
