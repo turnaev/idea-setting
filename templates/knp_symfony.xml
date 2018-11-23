@@ -157,7 +157,6 @@
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CUCUMBER_FEATURE_FILE" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
