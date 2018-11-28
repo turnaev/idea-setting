@@ -5,7 +5,12 @@
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="External Tools" is_group="true" action_type="1" position="13">
+    <group value="VagrantGroup" is_group="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="External Tools" is_group="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
