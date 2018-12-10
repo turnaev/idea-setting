@@ -8,49 +8,50 @@
       <mapping pattern="supervisord.conf" type="Ini" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
-      <mapping pattern="http-all" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
-      <mapping pattern="app_params" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern=".prompt_" type="PLAIN_TEXT" />
-      <mapping pattern=".dict.settings" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile_" type="PLAIN_TEXT" />
-      <mapping pattern="ini" type="PLAIN_TEXT" />
-      <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
-      <mapping pattern="sss" type="PLAIN_TEXT" />
-      <mapping pattern="nginx" type="PLAIN_TEXT" />
-      <mapping pattern=".galaxy_install_info" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
+      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
+      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="ansible-review.cfg" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
-      <mapping pattern=".secret.dict" type="PLAIN_TEXT" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="SerializerDateTimeOffsetTest" type="PLAIN_TEXT" />
-      <mapping pattern="patterns" type="PLAIN_TEXT" />
-      <mapping pattern=".secret" type="PLAIN_TEXT" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
+      <mapping pattern="app_params" type="PLAIN_TEXT" />
       <mapping pattern="http-create" type="PLAIN_TEXT" />
-      <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
-      <mapping pattern="ansible-review.cfg" type="PLAIN_TEXT" />
-      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
-      <mapping pattern=".prompt" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".secret.dict" type="PLAIN_TEXT" />
+      <mapping pattern="http-all" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern=".dict.settings" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="j2_" type="PLAIN_TEXT" />
-      <mapping ext="orginal" type="PLAIN_TEXT" />
-      <mapping ext="original" type="PLAIN_TEXT" />
-      <mapping ext="backe" type="PLAIN_TEXT" />
+      <mapping pattern="patterns" type="PLAIN_TEXT" />
+      <mapping pattern=".prompt" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".galaxy_install_info" type="PLAIN_TEXT" />
+      <mapping pattern=".prompt_" type="PLAIN_TEXT" />
+      <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
+      <mapping pattern=".secret" type="PLAIN_TEXT" />
+      <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile_" type="PLAIN_TEXT" />
+      <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="clean-file" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="makefile" type="PLAIN_TEXT" />
-      <mapping ext="thrift ￼" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="clean-file" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="backe" type="PLAIN_TEXT" />
+      <mapping ext="j2_" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping ext="thrift ￼" type="PLAIN_TEXT" />
+      <mapping ext="makefile" type="PLAIN_TEXT" />
+      <mapping ext="orginal" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
       <mapping pattern="*yml" type="YAML_EX" />
       <mapping pattern="nginx.conf" type="nginx file type" />
