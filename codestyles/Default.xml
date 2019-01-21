@@ -13,6 +13,9 @@
   <Lua>
     <option name="ALIGN_TABLE_FIELD_ASSIGN" value="true" />
   </Lua>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -29,6 +32,30 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <DBN-PSQL>
+    <case-options enabled="false">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false" />
+  </DBN-PSQL>
+  <DBN-SQL>
+    <case-options enabled="false">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false">
+      <option name="STATEMENT_SPACING" value="one_line" />
+      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+    </formatting-settings>
+  </DBN-SQL>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
