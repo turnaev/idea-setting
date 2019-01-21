@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="turnaev.v@prodv.net">
+      <option name="address" value="dhub.repa.prodv.net" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="turnaev.v" />
+    </DockerRegistry>
+  </component>
+</application>
