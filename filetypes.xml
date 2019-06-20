@@ -2,6 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
@@ -10,11 +20,12 @@
       <mapping pattern="*.php.j2" type="PHP" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="doct" type="PLAIN_TEXT" />
+      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="ansible-review.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="SerializerDateTimeOffsetTest" type="PLAIN_TEXT" />
@@ -31,7 +42,6 @@
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern="hotlist" type="PLAIN_TEXT" />
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
-      <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern="patterns" type="PLAIN_TEXT" />
       <mapping pattern=".prompt" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -41,13 +51,14 @@
       <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
-      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Makefile_" type="PLAIN_TEXT" />
       <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="clean-file" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="origin" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="backe" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
@@ -62,16 +73,6 @@
       <removed_mapping ext="j2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping pattern="nginx.conf.j2" approved="true" type="nginx file type" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
