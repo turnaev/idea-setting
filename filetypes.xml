@@ -20,12 +20,12 @@
       <mapping pattern="*.php.j2" type="PHP" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="doct" type="PLAIN_TEXT" />
-      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
+      <mapping pattern="BrandResidueExportController.php" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="req_createEvent" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="ansible-review.cfg" type="PLAIN_TEXT" />
-      <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern=".bash_custome" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="SerializerDateTimeOffsetTest" type="PLAIN_TEXT" />
@@ -42,6 +42,7 @@
       <mapping pattern="testcsv" type="PLAIN_TEXT" />
       <mapping pattern="hotlist" type="PLAIN_TEXT" />
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern="patterns" type="PLAIN_TEXT" />
       <mapping pattern=".prompt" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -51,7 +52,7 @@
       <mapping pattern="SingleModeException" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern=".env_rabbitmq" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".yamllint" type="PLAIN_TEXT" />
       <mapping pattern="Makefile_" type="PLAIN_TEXT" />
       <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
