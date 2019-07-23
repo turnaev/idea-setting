@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
@@ -18,6 +18,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
       <removed_mapping ext="npmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
@@ -39,11 +40,10 @@
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping pattern="*yml" type="YAML_EX" />
       <mapping pattern="nginx.conf" type="nginx file type" />
-      <removed_mapping pattern="http-all" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".bash_custome" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="app_params" approved="true" type="PLAIN_TEXT" />
@@ -57,13 +57,13 @@
       <removed_mapping ext="thrift ￼" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="backe" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prompt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".prompt_" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile_" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitkeep" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="secret" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="doct" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="BrandResidueExportController.php" approved="true" type="PLAIN_TEXT" />
@@ -73,25 +73,26 @@
       <removed_mapping ext="default" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".galaxy_install_info" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="back" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="orginal" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ansible-review.cfg" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yamllint" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env_rabbitmq" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="secret" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="j2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SingleModeException" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="clean-file" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="version" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="hotlist" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="orginal" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="original" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".secret" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="tmp" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="http-all" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="hosts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="SerializerDateTimeOffsetTest" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="patterns" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.dist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".vault_secret.distr" approved="true" type="PLAIN_TEXT" />
@@ -99,14 +100,14 @@
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".secret.dict" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="origin" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".prompt" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="SingleModeException" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="http-create" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="proxy_params" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env_rabbitmq" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="j2_" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yamllint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
