@@ -18,6 +18,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <removed_mapping ext="npmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
