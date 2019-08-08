@@ -4,13 +4,13 @@
       <mapping pattern="*.sh.j2" type="Bash" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
@@ -38,7 +38,6 @@
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*yml" type="YAML_EX" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
@@ -63,7 +62,6 @@
       <removed_mapping pattern="tmp" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.dist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping pattern=".secret.dict" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".bash_custome" approved="true" type="PLAIN_TEXT" />
@@ -73,7 +71,6 @@
       <removed_mapping pattern="patterns" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ansible-review.cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="version" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="Dockerfile2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitkeep" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
@@ -111,6 +108,7 @@
       <removed_mapping pattern="proxy_params" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="BrandResidueExportController.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*yml" approved="true" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
