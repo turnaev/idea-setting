@@ -18,6 +18,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="supervisord.conf" type="Ini" />
       <mapping ext="j2" type="Jinja2" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
       <mapping pattern="11" type="PLAIN_TEXT" />
