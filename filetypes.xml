@@ -23,6 +23,7 @@
       <mapping pattern="*.php.j2" type="PHP" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping ext="propertie" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
