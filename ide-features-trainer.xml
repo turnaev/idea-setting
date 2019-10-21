@@ -5,29 +5,59 @@
   <component name="LessonStateBase">
     <option name="myMap">
       <map>
+        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Basic Completion" value="NOT_PASSED" />
+        <entry key="Class Search" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="Collapse" value="NOT_PASSED" />
+        <entry key="Comment Line" value="NOT_PASSED" />
+        <entry key="Completion with Tab" value="NOT_PASSED" />
         <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
         <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
+        <entry key="Declaration and usages" value="NOT_PASSED" />
+        <entry key="Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
         <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
+        <entry key="Extract Method" value="NOT_PASSED" />
+        <entry key="Extract Variable" value="NOT_PASSED" />
+        <entry key="File structure" value="NOT_PASSED" />
+        <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
+        <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
+        <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
+        <entry key="GopherCon.ExtractVariable" value="NOT_PASSED" />
+        <entry key="GopherCon.FormatStringArgument" value="NOT_PASSED" />
+        <entry key="GopherCon.GoFmt" value="NOT_PASSED" />
+        <entry key="GopherCon.ImplementMissingMethods" value="NOT_PASSED" />
+        <entry key="GopherCon.Inline" value="NOT_PASSED" />
+        <entry key="GopherCon.Rename" value="NOT_PASSED" />
+        <entry key="Hippie Completion" value="NOT_PASSED" />
+        <entry key="Method-Like Function Completion" value="NOT_PASSED" />
+        <entry key="Move" value="NOT_PASSED" />
+        <entry key="Multiple Selections" value="NOT_PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
+        <entry key="Postfix Completion" value="NOT_PASSED" />
+        <entry key="Refactoring Menu" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
+        <entry key="Rename" value="NOT_PASSED" />
+        <entry key="Select" value="NOT_PASSED" />
+        <entry key="Smart Type Completion" value="NOT_PASSED" />
+        <entry key="Statement Completion" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
@@ -90,6 +120,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1563942648248" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
@@ -101,8 +139,8 @@
         <entry key="EditorBasics.DeleteLine">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1513333086022" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="50609480616" />
             </StatisticData>
           </value>
         </entry>
@@ -111,6 +149,14 @@
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1513333087925" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1563942614266" />
             </StatisticData>
           </value>
         </entry>
@@ -141,8 +187,8 @@
         <entry key="Navigation.FileStructure">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1515472548406" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="48471590255" />
             </StatisticData>
           </value>
         </entry>
