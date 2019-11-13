@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="kotlin:S125" />
+        <option value="squid:S1220" />
       </set>
     </option>
   </component>
