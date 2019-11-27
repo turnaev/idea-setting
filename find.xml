@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../src/main/kotlin/com/axpl/bps/rest/domain/dataList [axpl-bill-payment-service.main]'" />
-    <option name="defaultScopeName" value="Directory '.../src/main/kotlin/com/axpl/bps/rest/domain/dataList [axpl-bill-payment-service.main]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/main/kotlin/com/axpl/bps/rest/domain/dataList [axpl-bill-payment-service.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
