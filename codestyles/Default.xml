@@ -80,6 +80,9 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
