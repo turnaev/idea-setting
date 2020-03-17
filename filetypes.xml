@@ -4,7 +4,6 @@
       <mapping pattern="*.sh.j2" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
@@ -15,21 +14,20 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="xjb" type="XML" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
@@ -46,8 +44,8 @@
       <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="doct" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="tmp" approved="true" type="PLAIN_TEXT" />
@@ -102,6 +100,7 @@
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="BrandResidueExportController.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*yml" approved="true" type="YAML_EX" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
