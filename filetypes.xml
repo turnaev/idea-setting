@@ -31,8 +31,8 @@
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="app_params" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".secret" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env_rabbitmq" approved="true" type="PLAIN_TEXT" />
@@ -44,8 +44,8 @@
       <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="doct" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="tmp" approved="true" type="PLAIN_TEXT" />
