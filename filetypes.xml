@@ -12,6 +12,8 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
+      <mapping ext="ddd" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
