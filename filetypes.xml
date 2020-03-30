@@ -7,6 +7,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
+      <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
