@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
+      <mapping pattern="init" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -11,6 +12,7 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
+      <mapping pattern="app" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
