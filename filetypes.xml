@@ -12,8 +12,8 @@
       <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
-      <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="app" type="PLAIN_TEXT" />
+      <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
