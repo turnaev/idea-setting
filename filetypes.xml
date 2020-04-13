@@ -13,6 +13,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
