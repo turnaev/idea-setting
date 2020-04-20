@@ -5,9 +5,9 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -19,5 +19,6 @@
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
