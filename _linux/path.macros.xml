@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="CLASS" value="/home/lynx/project/kotlin/integration-bus-service/build/classes" />
-    <macro name="KOTLIN_BUNDLED" value="/home/lynx/idea-IU-193.6911.18/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/home/lynx/.IntelliJIdea2019.3/config/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/home/lynx/.m2/repository" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
