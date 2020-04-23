@@ -6,6 +6,7 @@
       <mapping pattern="init" type="Bash" />
       <mapping pattern="run-fpm" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern="supervisord.conf" type="Ini" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
@@ -39,8 +40,8 @@
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="app_params" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".secret" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env_rabbitmq" approved="true" type="PLAIN_TEXT" />
@@ -110,7 +111,6 @@
       <removed_mapping pattern="*yml" approved="true" type="YAML_EX" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="nginx.conf" type="nginx file type" />
-      <mapping pattern="supervisord.conf" type="Ini" />
     </extensionMap>
   </component>
 </application>
