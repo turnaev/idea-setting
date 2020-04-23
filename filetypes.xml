@@ -7,6 +7,7 @@
       <mapping pattern="run-fpm" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
@@ -23,7 +24,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
@@ -32,6 +33,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
@@ -109,7 +111,6 @@
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="BrandResidueExportController.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*yml" approved="true" type="YAML_EX" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
