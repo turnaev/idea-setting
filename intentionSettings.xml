@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Specify type explicitly" />
     <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
