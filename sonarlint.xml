@@ -1,12 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="kotlin:S117" />
-        <option value="kotlin:S1186" />
-        <option value="kotlin:S125" />
-        <option value="squid:S1220" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="squid:S1220" />
+      <Rule active="false" key="kotlin:S125" />
+      <Rule active="false" key="kotlin:S1186" />
+      <Rule active="false" key="kotlin:S117" />
+    </rules>
   </component>
 </application>
