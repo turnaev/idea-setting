@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
-      <mapping pattern="run-fpm" type="Bash" />
       <mapping pattern="start-fpm" type="Bash" />
       <mapping pattern="init" type="Bash" />
+      <mapping pattern="run-fpm" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
       <mapping ext="j2" type="Jinja2" />
@@ -12,14 +12,13 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
-      <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
-      <mapping pattern="php-fpm" type="PLAIN_TEXT" />
-      <mapping pattern="11" type="PLAIN_TEXT" />
-      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
-      <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
+      <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
+      <mapping pattern="php-fpm" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
       <mapping ext="twig_" type="PLAIN_TEXT" />
