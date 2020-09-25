@@ -22,6 +22,7 @@
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
+      <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="twig_" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
