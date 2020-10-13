@@ -12,6 +12,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
