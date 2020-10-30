@@ -15,8 +15,8 @@
       <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
-      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
+      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
