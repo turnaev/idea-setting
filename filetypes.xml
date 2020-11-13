@@ -28,6 +28,7 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ddd" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="twig_" type="PLAIN_TEXT" />
