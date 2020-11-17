@@ -22,6 +22,7 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="enabled" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping ext="lua_" type="PLAIN_TEXT" />
