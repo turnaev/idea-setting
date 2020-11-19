@@ -17,6 +17,7 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile_" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile_pld" type="PLAIN_TEXT" />
