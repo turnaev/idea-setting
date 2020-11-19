@@ -19,6 +19,7 @@
       <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile_pld" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
