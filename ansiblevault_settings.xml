@@ -1,5 +1,5 @@
 <application>
   <component name="AnsibleVaultSettings">
-    <option name="vaultPasswordFile" value="$USER_HOME$/project/pg-bus/ansible/.vault_secret" />
+    <option name="vaultPasswordFile" value="$USER_HOME$/project/pgbus-sandbox/axpl/installer/ansible/.vault_pass" />
   </component>
 </application>
