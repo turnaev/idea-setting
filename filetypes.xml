@@ -28,6 +28,7 @@
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
       <mapping pattern="enabled" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
