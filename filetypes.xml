@@ -21,14 +21,12 @@
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
       <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
-      <mapping pattern="hotlist" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile_pld" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
       <mapping pattern="enabled" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
