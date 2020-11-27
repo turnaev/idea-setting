@@ -1,0 +1,5 @@
+<templateSet group="Yaml">
+  <template name="dv" value="- debug:&#10;    var: $END$" shortcut="TAB" description="ansible debug var" toReformat="false" toShortenFQNames="false">
+    <context />
+  </template>
+</templateSet>

@@ -1,0 +1,40 @@
+<templateSet group="SQF">
+  <template name="paramsd" value="params[[&quot;$PARAM_VAR$&quot;,$PARAM_DEF_VAL$]];$END$" description="Create params statement with defined vars" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM_VAR" expression="" defaultValue="_var" alwaysStopAt="true" />
+    <variable name="PARAM_DEF_VAL" expression="" defaultValue="0" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="callf" value="[$PARAM$] call $END$;" description="Call a config function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="_var" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="forspec" value="for [{$ITER_VAR$=$ITER_VAR_VAL$;},{$ITER_COND$},{$ITER_OPERATION$}] do {$END$};" description="Create a for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="ITER_VAR" expression="" defaultValue="_i" alwaysStopAt="true" />
+    <variable name="ITER_VAR_VAL" expression="" defaultValue="0" alwaysStopAt="true" />
+    <variable name="ITER_COND" expression="" defaultValue="condition" alwaysStopAt="true" />
+    <variable name="ITER_OPERATION" expression="" defaultValue="_i=_i+1" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="forvar" value="for &quot;$ITER_VAR$&quot; from $ITER_START$ to $ITER_END$ do {$END$};" description="Create a for loop on a variable" toReformat="false" toShortenFQNames="true">
+    <variable name="ITER_VAR" expression="" defaultValue="_i" alwaysStopAt="true" />
+    <variable name="ITER_START" expression="" defaultValue="0" alwaysStopAt="true" />
+    <variable name="ITER_END" expression="" defaultValue="0" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ifthen" value="if ($COND$) then {$END$};" description="if then statement" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ifexit" value="if ($COND$) exitWith {$END$};" description="if exitWith statement" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="hintarg" value="hint format[&quot;%1&quot;, (_this select $PARAM$)];$END$" description="Hint a function argument" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="0" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="hintvalue" value="hint format[&quot;%1&quot;, $PARAM$];$END$" description="Hint format a value" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="0" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
