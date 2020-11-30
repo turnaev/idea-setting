@@ -3,41 +3,44 @@
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
       <mapping pattern="run-fpm" type="Bash" />
-      <mapping pattern="start-fpm" type="Bash" />
       <mapping pattern="init" type="Bash" />
+      <mapping pattern="start-fpm" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="supervisord.conf" type="Ini" />
+      <mapping pattern="docker-compose.yml.j2" type="Jinja2" />
+      <mapping pattern=".env.j2" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
-      <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
-      <mapping pattern="php-fpm" type="PLAIN_TEXT" />
-      <mapping pattern="11" type="PLAIN_TEXT" />
-      <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
-      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
-      <mapping pattern="Caddyfile_" type="PLAIN_TEXT" />
-      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
-      <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
-      <mapping pattern="Caddyfile_pld" type="PLAIN_TEXT" />
+      <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile_" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
+      <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
       <mapping pattern="enabled" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping ext="lua_" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping pattern="payment-transaction-status-file" type="PLAIN_TEXT" />
+      <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="php-fpm" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile_pld" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="ddd" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="web" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="twig_" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="j2_" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="ddd" type="PLAIN_TEXT" />
       <mapping ext="enveroment" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="web" type="PLAIN_TEXT" />
+      <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
@@ -52,6 +55,7 @@
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.j2.yml" type="YAML" />
       <mapping pattern="nginx.conf" type="nginx" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
@@ -73,6 +77,7 @@
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="docker-compose.yml.j2" approved="true" type="YAML" />
       <removed_mapping pattern="tmp" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.dist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
@@ -109,7 +114,6 @@
       <removed_mapping ext="orginal" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="default" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="j2_" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile_" approved="true" type="PLAIN_TEXT" />
