@@ -15,8 +15,10 @@
       <mapping ext="mdpp" type="Markdown" />
       <mapping pattern="*.php.j2" type="PHP" />
       <mapping pattern="SYMFONY_DEBUG" type="PLAIN_TEXT" />
+      <mapping pattern=".ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile_" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
       <mapping pattern=".vault_secret" type="PLAIN_TEXT" />
