@@ -26,6 +26,7 @@
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="start-cli" type="PLAIN_TEXT" />
       <mapping pattern="vhost-traffic-status" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="enabled" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
