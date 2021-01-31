@@ -115,7 +115,6 @@
       <mapping pattern=".env.j2" type="Jinja2" />
       <mapping pattern="docker-compose.yml.j2" type="Jinja2" />
       <mapping pattern="init" type="Bash" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping pattern="run-fpm" type="Bash" />
       <mapping pattern="start-fpm" type="Bash" />
       <mapping pattern="supervisord.conf" type="Ini" />

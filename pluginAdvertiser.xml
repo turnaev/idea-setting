@@ -1051,6 +1051,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ideanginx9" />
+              <option name="myPluginName" value="nginx Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.nodemonignore">
           <value>
             <plugin>
@@ -2142,6 +2150,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="nginx.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="org.codehaus.groovy.runtime.ExtensionModule">
           <value>
             <plugin>
@@ -2423,6 +2439,11 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="nginx.configuration.type">
+                    <value>
+                      <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
                     </value>
                   </entry>
                 </map>
