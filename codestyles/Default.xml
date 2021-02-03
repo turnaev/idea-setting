@@ -102,5 +102,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
