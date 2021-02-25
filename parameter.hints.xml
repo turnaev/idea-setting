@@ -18,6 +18,7 @@
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="sql.show.column.names.in.select" value="true" />
     <option id="SHOW_SUSPENDING_CALL" value="true" />
   </component>
 </application>
