@@ -33,6 +33,7 @@
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
       <mapping pattern="*.j2.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -47,7 +48,6 @@
       <removed_mapping ext="dev" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="j2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
