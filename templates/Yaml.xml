@@ -1,13 +1,11 @@
 <templateSet group="Yaml">
   <template name="dv" value="- debug:&#10;    var: $END$" shortcut="TAB" description="Ansible debug var" toReformat="false" toShortenFQNames="false">
     <context>
-      <option name="KUBERNETES_RESOURCE" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
   <template name="dm" value="- debug:&#10;    msg: &quot;$END$&quot;" description="Ansible debig message" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="KUBERNETES_RESOURCE" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
