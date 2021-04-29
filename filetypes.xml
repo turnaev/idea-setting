@@ -4,8 +4,10 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="requirements.txt" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -16,6 +18,7 @@
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
