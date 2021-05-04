@@ -4,6 +4,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -15,12 +16,17 @@
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern="*playbook.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="*playbook.yml" approved="true" type="YAML" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="main.yml" approved="true" type="YAML" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
