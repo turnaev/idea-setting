@@ -2,6 +2,8 @@
   <component name="OSFileAssociationPreferences">
     <option name="fileTypeNames">
       <list>
+        <option value="Env File" />
+        <option value="YAML" />
         <option value="YAML_EX" />
       </list>
     </option>
