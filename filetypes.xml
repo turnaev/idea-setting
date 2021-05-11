@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="env" type=".env file" />
-      <removed_mapping ext="env" type="Env File" />
+      <removed_mapping ext="env" type=".env file" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <mapping ext="template" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
