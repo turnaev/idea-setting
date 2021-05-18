@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="yml" type="YAML" />
