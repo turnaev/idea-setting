@@ -18,6 +18,11 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
+        <entry key="git" value="false" />
       </map>
     </option>
   </component>
