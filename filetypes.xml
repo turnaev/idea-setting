@@ -4,6 +4,8 @@
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
+      <mapping pattern=".env.*" type="Ini" />
+      <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -15,6 +17,7 @@
       <removed_mapping ext="yml" type="YAML_EX" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="Ini" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
@@ -32,6 +35,9 @@
       <removed_mapping pattern="*playbook.yml" approved="true" type="YAML" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
