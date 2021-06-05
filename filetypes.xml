@@ -3,20 +3,12 @@
     <extensionMap>
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
-      <mapping pattern=".env.*" type="Ini" />
-      <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
@@ -46,6 +38,8 @@
       <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="main.yml" approved="true" type="YAML" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".env.*" type="Ini" />
     </extensionMap>
   </component>
 </application>
