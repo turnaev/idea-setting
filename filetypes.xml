@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
