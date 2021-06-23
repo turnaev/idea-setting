@@ -38,8 +38,6 @@
       <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="main.yml" approved="true" type="YAML" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="Ini" />
-      <mapping pattern=".env.*" type="Ini" />
     </extensionMap>
   </component>
 </application>
