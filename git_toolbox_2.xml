@@ -12,12 +12,14 @@
           <option name="type" value="STATUS" />
         </DecorationPartConfig>
         <DecorationPartConfig>
-          <option name="type" value="TAGS_ON_HEAD" />
-          <option name="prefix" value="(" />
           <option name="postfix" value=")" />
+          <option name="prefix" value="(" />
+          <option name="type" value="TAGS_ON_HEAD" />
         </DecorationPartConfig>
       </list>
     </option>
     <option name="previousVersionMigrated" value="true" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="4" />
   </component>
 </application>
