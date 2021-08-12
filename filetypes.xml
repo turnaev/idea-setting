@@ -4,9 +4,9 @@
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -15,10 +15,10 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
