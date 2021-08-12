@@ -4,6 +4,9 @@
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -12,13 +15,15 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping ext="csv" type="CSV" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
@@ -27,11 +32,8 @@
       <removed_mapping ext="opts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
-      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
-      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping pattern="*playbook.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="*playbook.yml" approved="true" type="YAML" />
       <removed_mapping pattern=".dict.settings" approved="true" type="PLAIN_TEXT" />
