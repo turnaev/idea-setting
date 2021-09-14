@@ -13,6 +13,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" type="TSV" />
