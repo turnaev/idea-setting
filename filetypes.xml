@@ -4,6 +4,9 @@
       <mapping pattern="sss" type="AUTO_DETECTED" />
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -13,6 +16,7 @@
       <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
