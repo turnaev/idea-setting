@@ -4,8 +4,6 @@
       <mapping pattern="sss" type="AUTO_DETECTED" />
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
-      <mapping pattern=".env.*" type="Ini" />
-      <mapping pattern=".env" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
