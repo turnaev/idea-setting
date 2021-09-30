@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sss" type="AUTO_DETECTED" />
-      <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,6 +13,7 @@
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
+      <mapping pattern="default.conf.tpl" type="nginx" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
@@ -47,6 +48,7 @@
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="default.conf.template" approved="true" type="nginx" />
       <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="main.yml" approved="true" type="YAML" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
