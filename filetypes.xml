@@ -13,6 +13,7 @@
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
+      <mapping pattern="nginx.conf" type="nginx" />
       <mapping pattern="default.conf.tpl" type="nginx" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
