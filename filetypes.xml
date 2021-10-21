@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sss" type="AUTO_DETECTED" />
+      <mapping pattern="tag" type="AUTO_DETECTED" />
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="version_from_tag" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
