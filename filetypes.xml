@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="sss" type="AUTO_DETECTED" />
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
+      <mapping pattern="version_from_tag" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
