@@ -1,15 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="cronjob" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
-      <mapping pattern="tag" type="AUTO_DETECTED" />
-      <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="version_from_tag" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="php_version" type="AUTO_DETECTED" />
+      <mapping pattern="cronjob" type="AUTO_DETECTED" />
+      <mapping pattern="tag" type="AUTO_DETECTED" />
+      <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
       <mapping pattern="ini" type="AUTO_DETECTED" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -20,7 +21,6 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <mapping pattern="nginx.conf" type="nginx" />
       <mapping pattern="default.conf.tpl" type="nginx" />
@@ -36,6 +36,7 @@
       <removed_mapping ext="ext" approved="true" type="Arma.Header" />
       <removed_mapping ext="htaccess" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="j2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jad" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="npmignore" approved="true" type="PLAIN_TEXT" />
