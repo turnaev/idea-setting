@@ -1,7 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="clickhouse">
-      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
+    <driver id="tarantool">
+      <artifact id="tarantool" name="tarantool" use="true" version="1.9.4" />
+      <artifact id="Tarantool" name="Tarantool" use="true" version="1.9.4" />
     </driver>
     <driver id="hsqldb.local">
       <artifact id="HSQLDB" name="HSQLDB" use="true" version="2.3.4" />
@@ -13,7 +14,7 @@
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.40" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
   </component>
 </application>

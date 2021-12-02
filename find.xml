@@ -4,24 +4,25 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
+    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.j2</mask>
+    <mask>*.html</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
-    <mask>*</mask>
-    <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
+    <mask>*.php</mask>
+    <mask>*.js.twig</mask>
+    <mask>.gitignore</mask>
+    <mask>*</mask>
   </component>
 </application>
