@@ -10,7 +10,6 @@
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="php_version" type="AUTO_DETECTED" />
       <mapping pattern="ini" type="AUTO_DETECTED" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -18,9 +17,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="lua_" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <mapping pattern="nginx.conf" type="nginx" />
       <mapping pattern="default.conf.tpl" type="nginx" />
@@ -62,7 +61,9 @@
       <removed_mapping pattern="default.conf.template" approved="true" type="nginx" />
       <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="main.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="nginx.conf" approved="true" type="Nginx Configuration" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
