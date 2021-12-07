@@ -19,12 +19,12 @@
     <mask>*.php</mask>
     <mask>*.js.twig</mask>
     <mask>.gitignore</mask>
-    <mask>*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
   </component>
 </application>
