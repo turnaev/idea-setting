@@ -10,6 +10,7 @@
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="php_version" type="AUTO_DETECTED" />
       <mapping pattern="ini" type="AUTO_DETECTED" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
