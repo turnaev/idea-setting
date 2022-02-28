@@ -12,6 +12,7 @@
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="php_version" type="AUTO_DETECTED" />
       <mapping pattern="ini" type="AUTO_DETECTED" />
+      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping ext="j2" type="Jinja2" />
       <mapping ext="space.kts" type="Kotlin" />
