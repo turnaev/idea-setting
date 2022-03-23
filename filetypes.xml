@@ -24,6 +24,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="b" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
