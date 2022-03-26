@@ -6,6 +6,7 @@
   </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DISABLE_MNEMONICS" value="true" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
