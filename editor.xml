@@ -16,6 +16,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="TOOLTIPS_DELAY_MS" value="1000" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
