@@ -13,7 +13,6 @@
       <mapping pattern="php_version" type="AUTO_DETECTED" />
       <mapping pattern="ini" type="AUTO_DETECTED" />
       <mapping pattern="phpunit" type="AUTO_DETECTED" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -70,6 +69,7 @@
       <removed_mapping pattern="main.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="main.yml" approved="true" type="YAML" />
       <removed_mapping pattern="testcsv" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
