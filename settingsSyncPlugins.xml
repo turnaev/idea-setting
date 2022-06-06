@@ -1084,6 +1084,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="dev.meanmail.plugin.nginx-intellij-plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="dev.pnbarx.idea.treecolor">
           <value>
             <PluginData>
