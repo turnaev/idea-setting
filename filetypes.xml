@@ -27,10 +27,6 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping ext="yaml" type="SnakeYAML" />
-      <mapping ext="yml" type="SnakeYAML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <mapping pattern="nginx.conf" type="nginx" />
       <mapping pattern="default.conf.tpl" type="nginx" />
@@ -58,7 +54,9 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
+      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="*playbook.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="*playbook.yml" approved="true" type="YAML" />
