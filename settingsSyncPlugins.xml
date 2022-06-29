@@ -41,7 +41,9 @@
         </entry>
         <entry key="Compare Directories">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="DBN">
@@ -72,7 +74,9 @@
         </entry>
         <entry key="File Size">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="FrameSwitcher">
@@ -1255,6 +1259,7 @@
                   <option value="com.jetbrains.php" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
