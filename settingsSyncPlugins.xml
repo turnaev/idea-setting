@@ -17,7 +17,9 @@
         </entry>
         <entry key="Base64 for IDEA and Storm">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="ByteCodeViewer">
@@ -834,7 +836,9 @@
         </entry>
         <entry key="com.kaylerrenslow.plugin.armaplugin.id">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.khmelyuk.multirun">
