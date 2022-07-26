@@ -27,7 +27,6 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="j2_" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping ext="yaml" type="YAML" />
       <mapping pattern="*.nginx.tpl" type="nginx" />
       <mapping pattern="nginx.conf" type="nginx" />
       <mapping pattern="default.conf.tpl" type="nginx" />
