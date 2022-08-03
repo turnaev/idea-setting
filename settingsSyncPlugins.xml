@@ -346,6 +346,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1044,6 +1045,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.xrath.plugin.fold">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cucumber-groovy">
           <value>
             <PluginData>
@@ -1714,6 +1726,7 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
