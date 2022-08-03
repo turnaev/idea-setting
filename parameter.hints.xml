@@ -14,11 +14,20 @@
       <blacklist language="YAML" />
       <blacklist language="Kotlin" />
     </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
     <option id="SHOW_PROPERTY_HINT" value="true" />
+    <option id="sql.show.column.names.for.set.operations" value="true" />
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="lua.hints.show_function_type" value="true" />
+    <option id="sql.show.column.names.in.insert.values" value="true" />
+    <option id="js.only.show.names.for.all.args" value="true" />
+    <option id="php.show.names.for.all.args" value="true" />
+    <option id="lua.hints.show_parameter_type" value="true" />
+    <option id="SHOW_SUSPENDING_CALL" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="lua.hints.show_local_var_type" value="true" />
     <option id="sql.show.column.names.in.select" value="true" />
-    <option id="SHOW_SUSPENDING_CALL" value="true" />
   </component>
 </application>
