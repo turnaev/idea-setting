@@ -111,7 +111,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -173,6 +172,21 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="Lombook Plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -332,6 +346,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -368,6 +383,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -430,6 +446,19 @@
             <PluginData>
               <option name="dependencies">
                 <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.android.tools.idea.smali">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java-capable" />
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
@@ -591,6 +620,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.hasintech.intellij.angularTemplates">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JavaScript" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.ifengxue.plugin.jpa-support">
           <value>
             <PluginData>
@@ -643,6 +685,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.grpc">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.hibernate">
           <value>
             <PluginData>
@@ -654,7 +703,6 @@
                   <option value="com.intellij.persistence" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -691,6 +739,13 @@
           </value>
         </entry>
         <entry key="com.intellij.kubernetes">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.microservices.ui">
           <value>
             <PluginData>
               <option name="enabled" value="false" />
@@ -805,6 +860,12 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.plugins.webDeployment">
+          <value>
+            <PluginData>
               <option name="enabled" value="false" />
             </PluginData>
           </value>
@@ -876,6 +937,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.pine.fast.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.pyango.gmbh">
           <value>
             <PluginData>
@@ -889,9 +964,7 @@
         </entry>
         <entry key="com.remoterapp.adbremote.jsonviewer.id">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.sburlyaev.terminal.plugin">
@@ -933,6 +1006,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -977,6 +1051,17 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.xrath.plugin.fold">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
@@ -1146,6 +1231,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="ideanginx9">
           <value>
             <PluginData>
@@ -1180,6 +1272,24 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="intellij.ktor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.microservices.jvm" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.ultimate" />
+                  <option value="com.intellij.properties" />
+                  <option value="org.intellij.plugins.markdown" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="io.github.freeApplications.intellij-plugins">
           <value>
             <PluginData>
@@ -1189,6 +1299,7 @@
                   <option value="com.jetbrains.php" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1324,7 +1435,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1348,7 +1458,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1359,6 +1468,42 @@
                 <set>
                   <option value="com.intellij.modules.platform" />
                   <option value="com.jetbrains.php" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.qodana">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.android">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JUnit" />
+                  <option value="com.android.tools.idea.smali" />
+                  <option value="com.intellij.gradle" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.java-capable" />
+                  <option value="com.intellij.platform.images" />
+                  <option value="com.intellij.properties" />
+                  <option value="intellij.webp" />
+                  <option value="org.intellij.groovy" />
+                  <option value="org.intellij.intelliLang" />
+                  <option value="org.jetbrains.idea.gradle.dsl" />
+                  <option value="org.jetbrains.kotlin" />
+                  <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -1379,12 +1524,15 @@
         </entry>
         <entry key="org.jetbrains.idea.maven.ext">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.kannotator">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
           </value>
@@ -1423,6 +1571,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.jetbrains.plugins.remote-run">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.plugins.rest">
           <value>
             <PluginData>
@@ -1451,7 +1606,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1502,6 +1656,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.toml.lang">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.tonybaloney.security.pycharm-security">
           <value>
             <PluginData>
@@ -1522,6 +1683,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1576,6 +1738,7 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
