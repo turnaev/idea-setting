@@ -3,16 +3,16 @@
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
-      <mapping pattern="php_version" type="AUTO_DETECTED" />
       <mapping pattern="cronjob" type="AUTO_DETECTED" />
       <mapping pattern="sss" type="AUTO_DETECTED" />
       <mapping pattern="tag" type="AUTO_DETECTED" />
-      <mapping pattern="ini" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="axpl_admin" type="AUTO_DETECTED" />
-      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping pattern="version_from_tag" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="php_version" type="AUTO_DETECTED" />
+      <mapping pattern="ini" type="AUTO_DETECTED" />
+      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="lua_" type="PLAIN_TEXT" />
