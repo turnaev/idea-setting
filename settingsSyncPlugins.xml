@@ -72,6 +72,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Docker">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="File Size">
           <value>
             <PluginData>
@@ -745,6 +750,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.micronaut">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.microservices.ui">
           <value>
             <PluginData>
@@ -1006,7 +1018,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1738,7 +1749,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
